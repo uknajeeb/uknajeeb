@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uknajeeb
+- 👋 Hi, I’m Mohammed Najeeb
 - 👀 I’m interested in Network Engineering
 - 🌱 I’m currently learning Kubernetes
 
